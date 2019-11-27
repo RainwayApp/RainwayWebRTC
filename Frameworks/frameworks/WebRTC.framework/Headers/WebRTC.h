@@ -77,7 +77,6 @@
 #import <WebRTC/RTCDtmfSender.h>
 #import <WebRTC/RTCSSLAdapter.h>
 #import <WebRTC/RTCSessionDescription.h>
-#import <WebRTC/RTCStatisticsReport.h>
 #import <WebRTC/RTCTracing.h>
 #import <WebRTC/RTCCertificate.h>
 #import <WebRTC/RTCCryptoOptions.h>
