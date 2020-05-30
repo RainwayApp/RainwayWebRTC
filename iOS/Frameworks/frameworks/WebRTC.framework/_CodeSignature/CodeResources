@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RTCAudioSession.h</key>
 		<data>
-		DVmIPs3nqEz3TExAjraTxT6ftYY=
+		lPUnFZFrfi3Repi/kcCE1t1FKW4=
 		</data>
 		<key>Headers/RTCAudioSessionConfiguration.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/RTCConfiguration.h</key>
 		<data>
-		XP1LufnnoxrNQISgNjlrZptzO68=
+		rj9t6Fg/iFVXhEZBQxYPVEsqObA=
 		</data>
 		<key>Headers/RTCCryptoOptions.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/RTCEAGLVideoView.h</key>
 		<data>
-		SrHM2D+JFesbQ8wUuK0niK4QfEg=
+		qL7jlYAsDHHZVF9zE8z/CF/CCRM=
 		</data>
 		<key>Headers/RTCEncodedImage.h</key>
 		<data>
@@ -115,10 +115,6 @@
 		<key>Headers/RTCIceServer.h</key>
 		<data>
 		hqjIsV3Qt7FJPeMkuWYuoK5Z1Ac=
-		</data>
-		<key>Headers/RTCIntervalRange.h</key>
-		<data>
-		G408b319HMxKU53N/Jd9feORHYo=
 		</data>
 		<key>Headers/RTCLegacyStatsReport.h</key>
 		<data>
@@ -178,7 +174,7 @@
 		</data>
 		<key>Headers/RTCPeerConnection.h</key>
 		<data>
-		ElEHun7DAOhK+hsYrMrAMUuDPoA=
+		bgd9TEGd9RPFyxJyzYy7F5SUDUg=
 		</data>
 		<key>Headers/RTCPeerConnectionFactory.h</key>
 		<data>
@@ -198,7 +194,7 @@
 		</data>
 		<key>Headers/RTCRtpEncodingParameters.h</key>
 		<data>
-		9jTdZkvvBcdJzTc5BeRtKgv96m4=
+		rrFtBgxO/lw+aWurkXvqKB7YNHU=
 		</data>
 		<key>Headers/RTCRtpFragmentationHeader.h</key>
 		<data>
@@ -210,7 +206,7 @@
 		</data>
 		<key>Headers/RTCRtpParameters.h</key>
 		<data>
-		KkmqjEJap/soMCJGjeHDrM+5rds=
+		Obgu2p4vTxE4ticqU8RxQlnnyV0=
 		</data>
 		<key>Headers/RTCRtpReceiver.h</key>
 		<data>
@@ -218,11 +214,11 @@
 		</data>
 		<key>Headers/RTCRtpSender.h</key>
 		<data>
-		AxKX0N3XjoSsK4SqaJsN04Iq0gg=
+		DuumiTsSV0K6VOzd/UhOJ1Xi/Fc=
 		</data>
 		<key>Headers/RTCRtpTransceiver.h</key>
 		<data>
-		yrxOMvy0/nclhmfcsbeq9hY1qJQ=
+		uAG8UyENVBBop8bScp1sjHbB9zA=
 		</data>
 		<key>Headers/RTCSSLAdapter.h</key>
 		<data>
@@ -231,6 +227,10 @@
 		<key>Headers/RTCSessionDescription.h</key>
 		<data>
 		lVgRKqVDvDPblRLe0yBQoWt0gqU=
+		</data>
+		<key>Headers/RTCStatisticsReport.h</key>
+		<data>
+		HKChwpx1BjAKiBzOrppNKkT5G9Y=
 		</data>
 		<key>Headers/RTCTracing.h</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Headers/RTCVideoDecoder.h</key>
 		<data>
-		gD/E1i4695yjb0ULOsrEPVavA+M=
+		/0X68yHMPP686SnFz//Vp5FwUr8=
 		</data>
 		<key>Headers/RTCVideoDecoderFactory.h</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Headers/RTCVideoEncoderFactory.h</key>
 		<data>
-		pGXmEhq77mJR3jGSMnuSOJ55bV0=
+		bdi7beT4QQfSB87MZs/luBrS9kY=
 		</data>
 		<key>Headers/RTCVideoEncoderFactoryH264.h</key>
 		<data>
@@ -334,15 +334,15 @@
 		</data>
 		<key>Headers/UIDevice+RTCDevice.h</key>
 		<data>
-		kdg0gddr2z/eMeb1x0VAdP0XCnI=
+		ETAUjVaJ6sD2CJ7EVB86Cmlya1s=
 		</data>
 		<key>Headers/WebRTC.h</key>
 		<data>
-		+jetrwlUYvz5+wWJ9Jbcr7mw9tA=
+		9orZXq68G+GjNj8TyJj5uO+6YZE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Mbui/xB6Og/dIVSD9VxqK58blNQ=
+		uW/QmWGqW/cFUJbyQRLb5j7f8Tg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -355,11 +355,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DVmIPs3nqEz3TExAjraTxT6ftYY=
+			lPUnFZFrfi3Repi/kcCE1t1FKW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			JhsiVOaYdfKrycWNxahOrWY4DCzOnJcX2Di66Ish6Vw=
+			+SrT0tF1tJwqku3AunvOFhJScZXrOSg/PNWLDJ7tYYA=
 			</data>
 		</dict>
 		<key>Headers/RTCAudioSessionConfiguration.h</key>
@@ -476,11 +476,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XP1LufnnoxrNQISgNjlrZptzO68=
+			rj9t6Fg/iFVXhEZBQxYPVEsqObA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nYvtOUorgJJi29KHfZj4quOxS20tLSEnin2FBOBQQOA=
+			7ho6IFg3sd1DAtuUESymSiS/VBDw2g8mjy6eKR4IfN0=
 			</data>
 		</dict>
 		<key>Headers/RTCCryptoOptions.h</key>
@@ -564,11 +564,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SrHM2D+JFesbQ8wUuK0niK4QfEg=
+			qL7jlYAsDHHZVF9zE8z/CF/CCRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zHV88Pt/cO5fUHJdxenc+ZtMytvsdjep8R6dpGT139k=
+			EDs9q8dSKyfbqEM9UqTmMgSb09LuMaP6xLuU82wArMA=
 			</data>
 		</dict>
 		<key>Headers/RTCEncodedImage.h</key>
@@ -657,17 +657,6 @@
 			<key>hash2</key>
 			<data>
 			YSPBYQZfC6lMc4sxMrADEgxe0Z95Ie/kcjJlKFOL92E=
-			</data>
-		</dict>
-		<key>Headers/RTCIntervalRange.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			G408b319HMxKU53N/Jd9feORHYo=
-			</data>
-			<key>hash2</key>
-			<data>
-			6DzGvi5stHfZNkFzywpEbKiWQzltfpEt1rLp2rMCRlg=
 			</data>
 		</dict>
 		<key>Headers/RTCLegacyStatsReport.h</key>
@@ -828,11 +817,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ElEHun7DAOhK+hsYrMrAMUuDPoA=
+			bgd9TEGd9RPFyxJyzYy7F5SUDUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vz5ELyJL2QJefr2vsHVvzXHLVPcraaHQo5yjC1WjGko=
+			HCZraiIP3SD6b2gwE4aNVpO0Ks3WzEdp/UjDc7ORxQo=
 			</data>
 		</dict>
 		<key>Headers/RTCPeerConnectionFactory.h</key>
@@ -883,11 +872,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9jTdZkvvBcdJzTc5BeRtKgv96m4=
+			rrFtBgxO/lw+aWurkXvqKB7YNHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZqkTjXw30P2p/QoXT38Ni5bKnhHLYP9EGE/njlt66Ow=
+			1T5aD4k5TaL24hhk/kwgBYnQLmU+cBrW7NmC+17LAz0=
 			</data>
 		</dict>
 		<key>Headers/RTCRtpFragmentationHeader.h</key>
@@ -916,11 +905,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KkmqjEJap/soMCJGjeHDrM+5rds=
+			Obgu2p4vTxE4ticqU8RxQlnnyV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QiU0nhcvgbohwmNd5oRURIdV/o8T+pvCLArwNMl4+Lc=
+			6qwf7Zhiqwf51Fb5X6O+iUssOXSFnYyVTY3ux6RuASE=
 			</data>
 		</dict>
 		<key>Headers/RTCRtpReceiver.h</key>
@@ -938,22 +927,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AxKX0N3XjoSsK4SqaJsN04Iq0gg=
+			DuumiTsSV0K6VOzd/UhOJ1Xi/Fc=
 			</data>
 			<key>hash2</key>
 			<data>
-			V1CCSkF6eAe9LKQj0XAOH8X9EGvru8ZR4eRh1QTSVrw=
+			mhQeHbQy21A9M40aAGja4eZk7GZ+io0hx6/AG+YqgmQ=
 			</data>
 		</dict>
 		<key>Headers/RTCRtpTransceiver.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yrxOMvy0/nclhmfcsbeq9hY1qJQ=
+			uAG8UyENVBBop8bScp1sjHbB9zA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Go3HxktkAi3d1TwjP9+hRsXGFjwVhQj6CM4opCzzI9w=
+			Dbt4Tdu+8U4LsDKKjqmnAPYLvr5pjq9Ct+pacz1qZnQ=
 			</data>
 		</dict>
 		<key>Headers/RTCSSLAdapter.h</key>
@@ -976,6 +965,17 @@
 			<key>hash2</key>
 			<data>
 			7uIKm+zRz2ZCRqVH0rdrAMh/ajU91NDZv0ofyzYkDi8=
+			</data>
+		</dict>
+		<key>Headers/RTCStatisticsReport.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HKChwpx1BjAKiBzOrppNKkT5G9Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			JTf9hkgRYvKEBuLWUnhr2D3rhKwWAPZSkPRufY+OOvk=
 			</data>
 		</dict>
 		<key>Headers/RTCTracing.h</key>
@@ -1026,11 +1026,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gD/E1i4695yjb0ULOsrEPVavA+M=
+			/0X68yHMPP686SnFz//Vp5FwUr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			9r5KD8N7jQwleYUnLCATH+B6fCzExz9Oavz9cuLAuNA=
+			3FTifDhS2JewEFvEkDxPG5cW2L6xTmd+fYfWExKOYnQ=
 			</data>
 		</dict>
 		<key>Headers/RTCVideoDecoderFactory.h</key>
@@ -1103,11 +1103,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pGXmEhq77mJR3jGSMnuSOJ55bV0=
+			bdi7beT4QQfSB87MZs/luBrS9kY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lyYQl8WW9x6RWAXssSRbY5YFXBXzqfCpmpB3hLDXfXo=
+			kJ3QogPGs1gFsVsmGLmGidQzL/K18hUIz5abUWbvBnw=
 			</data>
 		</dict>
 		<key>Headers/RTCVideoEncoderFactoryH264.h</key>
@@ -1257,22 +1257,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kdg0gddr2z/eMeb1x0VAdP0XCnI=
+			ETAUjVaJ6sD2CJ7EVB86Cmlya1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Viqm2xzPBEiYPNGhaOTvIn8vOdL2rF2zONy5U/V+rGc=
+			RB1fyAC2gjcKE7dd9MkjIJmxa3qoh/ogwiYXbGno2lQ=
 			</data>
 		</dict>
 		<key>Headers/WebRTC.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+jetrwlUYvz5+wWJ9Jbcr7mw9tA=
+			9orZXq68G+GjNj8TyJj5uO+6YZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			wYjIXY05ro3ckce5oHsf+9ZJP8hazNIUqrx2rTm34WY=
+			XPo/emJG0S0Hnvt/tfc9CakldoeNHc/h7PJzbpcmQsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
