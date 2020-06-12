@@ -17,6 +17,6 @@
 RTC_OBJC_EXPORT
 @interface RTCVideoEncoderH264 : NSObject <RTCVideoEncoder>
 
-- (instancetype)initWithCodecInfo:(RTCVideoCodecInfo *)codecInfo;
+- (instancetype)initWithCodecInfo:(RTCVideoCodecInfo *)codecInfo API_AVAILABLE(ios(8), tvos(10.2));
 
 @end
